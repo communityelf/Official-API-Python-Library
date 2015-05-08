@@ -9,7 +9,7 @@ links = []
 
 setup(
     name='InfusionSoft-API',
-    version='0.1',
+    version='0.1.1',
     description='python wrapper for InfusionSoft API',
     author='Infusionsoft',
     maintainer='Nick Sloan',
